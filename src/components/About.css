@@ -1,0 +1,22 @@
+/* About.css */
+.about-hero {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 0.5rem;
+  }
+  
+  .feature-icon {
+    transition: transform 0.3s ease;
+  }
+  
+  .feature-card:hover .feature-icon {
+    transform: scale(1.1);
+  }
+  
+  .team-member-img {
+    transition: all 0.3s ease;
+  }
+  
+  .team-card:hover .team-member-img {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
