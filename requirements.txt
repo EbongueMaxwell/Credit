@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+psycopg2-binary
+pydantic
+python-jose
+passlib[bcrypt]
+bootstrap-icons
+jwt-decode bootstrap
+pip install pydantic[email]
+pip install fastapi uvicorn
+pip install python-multipart
+pip install fastapi uvicorn pandas matplotlib seaborn
+pip install requests
+pip install imbalanced-learn
+pip install websockets
